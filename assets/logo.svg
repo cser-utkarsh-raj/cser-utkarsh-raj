@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="32" x2="448" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="64" x2="420" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="url(#bg)"/>
+  <circle cx="386" cy="124" r="120" fill="#8B5CF6" opacity="0.15"/>
+  <circle cx="120" cy="394" r="130" fill="#22D3EE" opacity="0.12"/>
+
+  <g>
+    <path d="M174 120C136.386 120 106 150.386 106 188V266C106 303.614 136.386 334 174 334H202C239.614 334 270 303.614 270 266V188C270 150.386 239.614 120 202 120H174Z" fill="url(#accent)" opacity="0.12"/>
+    <path d="M165 128H214C240.51 128 262 149.49 262 176V268C262 294.51 240.51 316 214 316H165C138.49 316 117 294.51 117 268V176C117 149.49 138.49 128 165 128Z" fill="url(#accent)"/>
+    <path d="M150 158H171C172.175 158 173.266 158.839 173.266 160C173.266 161.161 172.175 162 171 162H150V158ZM150 158V232H171V158H150ZM150 232H171V236C171 237.21 170.105 238 169 238H152C150.895 238 150 237.21 150 236V232Z" fill="#0B1220" opacity="0.75"/>
+    <path d="M201 158H224V316H201V158Z" fill="#0B1220" opacity="0.75"/>
+    <circle cx="254" cy="158" r="20" fill="#F8FAFC"/>
+    <circle cx="254" cy="158" r="8" fill="#06B6D4"/>
+  </g>
+
+  <text x="256" y="416" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="3">U</text>
+</svg>
