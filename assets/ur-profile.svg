@@ -1,38 +1,54 @@
-<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="520" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="38" y1="22" x2="384" y2="398" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#10172A"/>
-      <stop offset="0.52" stop-color="#1E1B4B"/>
-      <stop offset="1" stop-color="#082F49"/>
+    <linearGradient id="bg" x1="58" y1="30" x2="464" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.48" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0E7490"/>
     </linearGradient>
-    <linearGradient id="ring" x1="54" y1="50" x2="367" y2="372" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C4B5FD"/>
-      <stop offset="0.45" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#34D399"/>
+    <linearGradient id="halo" x1="104" y1="82" x2="422" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
-    <linearGradient id="letters" x1="115" y1="112" x2="305" y2="305" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#BAE6FD"/>
+    <linearGradient id="jacket" x1="150" y1="351" x2="384" y2="495" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#312E81"/>
     </linearGradient>
-    <filter id="shadow" x="0" y="0" width="420" height="420" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#020617" flood-opacity="0.5"/>
+    <linearGradient id="skin" x1="216" y1="171" x2="329" y2="337" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FED7AA"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="520" height="520" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.55"/>
     </filter>
+    <clipPath id="avatarClip">
+      <circle cx="260" cy="260" r="206"/>
+    </clipPath>
   </defs>
 
-  <rect x="16" y="16" width="388" height="388" rx="112" fill="url(#bg)" filter="url(#shadow)"/>
-  <circle cx="210" cy="210" r="157" stroke="url(#ring)" stroke-width="3" opacity="0.9"/>
-  <circle cx="210" cy="210" r="139" stroke="#C4B5FD" stroke-opacity="0.16" stroke-width="1"/>
-  <circle cx="327" cy="91" r="48" fill="#A78BFA" opacity="0.12"/>
-  <circle cx="87" cy="340" r="58" fill="#22D3EE" opacity="0.1"/>
+  <circle cx="260" cy="260" r="232" fill="#020617" opacity="0.55"/>
+  <circle cx="260" cy="260" r="218" fill="url(#halo)" filter="url(#shadow)"/>
+  <circle cx="260" cy="260" r="206" fill="url(#bg)"/>
 
-  <path d="M111 139C111 125.745 121.745 115 135 115H244C279.346 115 308 143.654 308 179V241C308 276.346 279.346 305 244 305H135C121.745 305 111 294.255 111 281V139Z" fill="#020617" fill-opacity="0.38" stroke="#E0E7FF" stroke-opacity="0.13"/>
-  <path d="M143 151H166L166 269H143V151Z" fill="url(#letters)"/>
-  <path d="M166 151H196C215.33 151 231 166.67 231 186C231 205.33 215.33 221 196 221H166V198H194C200.627 198 206 192.627 206 186C206 179.373 200.627 174 194 174H166V151Z" fill="url(#letters)"/>
-  <path d="M201 198H225L256 269H230L201 198Z" fill="url(#letters)"/>
-  <path d="M229 151H256L224 221H198L229 151Z" fill="url(#letters)"/>
-  <circle cx="274" cy="137" r="20" fill="#F8FAFC"/>
-  <circle cx="274" cy="137" r="9" fill="#06B6D4"/>
-  <circle cx="274" cy="137" r="4" fill="#0F172A"/>
+  <g clip-path="url(#avatarClip)">
+    <circle cx="103" cy="99" r="86" fill="#38BDF8" opacity="0.12"/>
+    <circle cx="442" cy="414" r="118" fill="#A78BFA" opacity="0.14"/>
+    <path d="M96 520C110 414 165 366 260 366C355 366 410 414 424 520H96Z" fill="url(#jacket)"/>
+    <path d="M183 520C191 424 215 382 260 382C305 382 329 424 337 520H183Z" fill="#0F172A"/>
+    <path d="M218 358L218 407L260 443L302 407V358H218Z" fill="url(#skin)"/>
+    <path d="M176 213C176 143 216 112 260 112C304 112 344 143 344 213V267C344 331 307 374 260 374C213 374 176 331 176 267V213Z" fill="url(#skin)"/>
+    <path d="M176 222C165 186 171 134 207 106C236 83 287 84 319 104C355 126 364 172 344 220L321 185C286 194 237 186 202 166L176 222Z" fill="#0B1220"/>
+    <path d="M177 221C170 180 184 133 221 113C244 101 279 99 307 110C278 111 254 123 239 142C222 163 207 190 201 221H177Z" fill="#111827"/>
+    <path d="M210 245C222 235 239 235 251 245" stroke="#1E293B" stroke-width="9" stroke-linecap="round"/>
+    <path d="M269 245C281 235 298 235 310 245" stroke="#1E293B" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="232" cy="258" r="6" fill="#0F172A"/>
+    <circle cx="288" cy="258" r="6" fill="#0F172A"/>
+    <path d="M245 310C255 317 266 317 276 310" stroke="#9A3412" stroke-width="7" stroke-linecap="round"/>
+    <path d="M218 407L260 443L302 407" stroke="#67E8F9" stroke-opacity="0.8" stroke-width="4"/>
+  </g>
 
-  <text x="210" y="350" text-anchor="middle" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="5">UTKARSH RAJ</text>
+  <circle cx="260" cy="260" r="206" stroke="#E0F2FE" stroke-opacity="0.7" stroke-width="3"/>
+  <circle cx="260" cy="260" r="218" stroke="#BAE6FD" stroke-opacity="0.25" stroke-width="2"/>
+  <circle cx="413" cy="126" r="9" fill="#67E8F9"/>
+  <circle cx="104" cy="392" r="6" fill="#A78BFA"/>
 </svg>

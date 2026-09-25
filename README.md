@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/banner.svg" width="100%" alt="Utkarsh Raj banner" />
 
-  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg" width="190" alt="UR monogram profile graphic" />
+  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg" width="190" alt="Utkarsh Raj profile avatar" />
 
   <h1>Utkarsh Raj</h1>
   <h3>Software Engineer • Builder • Problem Solver</h3>
@@ -23,7 +23,7 @@
 
 ## About the builder
 
-I build products, prototypes, and systems that turn rough ideas into polished experiences. I enjoy shipping thoughtful software, architecting interesting backend flows, and learning the deeper mechanics behind modern engineering.
+I build products, prototypes, and systems that turn rough ideas into polished experiences. I enjoy shipping thoughtful software, architecting interesting backend flows, and learning the deeper mechanics behind the tools I use.
 
 My work sits at the intersection of product thinking, developer tooling, AI-enabled workflows, and clean full-stack engineering.
 
@@ -34,11 +34,13 @@ My work sits at the intersection of product thinking, developer tooling, AI-enab
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
 ---
@@ -93,5 +95,5 @@ If you're building a product, an internal tool, a platform, or just exploring an
 > “Do small potato stuff” is the vibe. But every potato gets turned into a product eventually.
 
 <div align="center">
-  <sub>Designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · Built by <a href="https://github.com/cser-utkarsh-raj">.dot</a></sub>
+  <sub>Designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · Built by <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a></sub>
 </div>
