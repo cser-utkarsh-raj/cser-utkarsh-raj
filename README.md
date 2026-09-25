@@ -8,13 +8,7 @@
   <h3>Software Engineer • Builder • Problem Solver</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Software%20Engineer-0B1220?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineer" />
-    <img src="https://img.shields.io/badge/Product%20Minded-6D28D9?style=for-the-badge&logo=rocket&logoColor=white" alt="Product Minded" />
-    <img src="https://img.shields.io/badge/Open%20to%20Ideas-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open to Ideas" />
-  </p>
-
-  <p>
-    <b>41</b> repositories · <b>0</b> followers · <b>4</b> following · <b>0</b> stars
+    <b>Building .dot</b> • Learning TypeScript & System Design • Open to meaningful collaborations
   </p>
 
 </div>
@@ -58,27 +52,6 @@ My work sits at the intersection of product thinking, developer tooling, AI-enab
 
 ---
 
-## GitHub pulse
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&theme=radical&count_private=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=radical" alt="GitHub streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cser-utkarsh-raj&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cser-utkarsh-raj&label=PROFILE+VIEWS&color=6E56CF&style=flat-square" alt="Profile views" />
-</p>
-
----
-
 ## What I care about
 
 - Building useful products, not just code dumps
@@ -90,9 +63,9 @@ My work sits at the intersection of product thinking, developer tooling, AI-enab
 
 ## Let's build something cool
 
-If you're building a product, an internal tool, a platform, or just exploring an idea — I’m always open to meaningful collaborations and ambitious problem-solving.
+If you're building a product, an internal tool, a platform, or just exploring an idea — I'm always open to meaningful collaborations and ambitious problem-solving.
 
-> “Do small potato stuff” is the vibe. But every potato gets turned into a product eventually.
+> "Do small potato stuff" is the vibe. But every potato gets turned into a product eventually.
 
 <div align="center">
   <sub>Designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · Built by <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a></sub>
