@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg" width="190" alt="Utkarsh Raj profile avatar" />
+  <img src="[https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg](https://avatars.githubusercontent.com/u/264562852?v=4)" width="190" alt="Utkarsh Raj profile avatar" />
 
   <h1>Utkarsh Raj</h1>
   <h3>Software Engineer • Builder • Problem Solver</h3>
