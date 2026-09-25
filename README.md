@@ -2,14 +2,15 @@
 
   <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/banner.svg" width="100%" alt="Utkarsh Raj banner" />
 
-  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/logo.svg" width="160" alt="Utkarsh Raj logo" />
+  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg" width="190" alt="UR monogram profile graphic" />
 
   <h1>Utkarsh Raj</h1>
   <h3>Software Engineer • Builder • Problem Solver</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Building%20.dot-0A0A0A?style=for-the-badge&logo=rocket&logoColor=white" alt="Status: Building .dot" />
-    <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20System%20Design-0A84FF?style=for-the-badge" alt="Focus: TypeScript & System Design" />
+    <img src="https://img.shields.io/badge/Software%20Engineer-0B1220?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineer" />
+    <img src="https://img.shields.io/badge/Product%20Minded-6D28D9?style=for-the-badge&logo=rocket&logoColor=white" alt="Product Minded" />
+    <img src="https://img.shields.io/badge/Open%20to%20Ideas-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open to Ideas" />
   </p>
 
   <p>
@@ -24,7 +25,7 @@
 
 I build products, prototypes, and systems that turn rough ideas into polished experiences. I enjoy shipping thoughtful software, architecting interesting backend flows, and learning the deeper mechanics behind modern engineering.
 
-Right now, I’m in the middle of building `.dot` — a personal, product-oriented engineering chapter focused on craft, clarity, and systems thinking.
+My work sits at the intersection of product thinking, developer tooling, AI-enabled workflows, and clean full-stack engineering.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,25 +43,16 @@ Right now, I’m in the middle of building `.dot` — a personal, product-orient
 
 ---
 
-## Current chapter
-
-- 🔨 Building: `.dot`
-- 🌱 Learning: `TypeScript` and `System Design`
-- 🚀 Exploring: developer tools, product thinking, and AI-enabled workflows
-- 🧠 Interested in: scalable product systems, clean architecture, and delightful UX
-
----
-
 ## Selected work
 
 | Project | Description |
 | --- | --- |
-| [GitPix](https://github.com/cser-utkarsh-raj/GitPix) | A polished GitHub profile README generator that turns public profile data into clean, export-ready documentation. |
-| [FarmHub](https://github.com/cser-utkarsh-raj/FarmHub) | Agricultural intelligence platform designed to improve crop and market decisions. |
-| [ClickHead](https://github.com/cser-utkarsh-raj/ClickHead) | A high-concurrency HTTP traffic simulation engine built in Go for realistic, production-like load testing. |
-| [Kubrick](https://github.com/cser-utkarsh-raj/Kubrick) | A Python-first local video editing engine for tutorials, explainers, and spoken content. |
-| [SLAM](https://github.com/cser-utkarsh-raj/SLAM) | AI-assisted job search workspace for discovery, application tailoring, and tracking. |
-| [register](https://github.com/cser-utkarsh-raj/register) | A utility to manage and claim a custom `.is-a.dev` subdomain. |
+| [myMentor](https://github.com/cser-utkarsh-raj/myMentor) | A personalized learning workspace with roadmaps, daily progress, study-hour logs, XP, streaks, and achievements. |
+| [Shennong](https://github.com/cser-utkarsh-raj/Shennong) | An agriculture-focused product exploring intelligent tools and better decisions for growers and agricultural communities. |
+| [TerraVault](https://github.com/cser-utkarsh-raj/TerraVault) | An encyclopedia-style journey through the wonders, disasters, and enigmas of our planet and beyond. |
+| [.dot](https://github.com/cser-utkarsh-raj/.dot) | A lightweight Python AI gateway that routes requests across multiple model providers through one stable API. |
+| [Sailor](https://github.com/cser-utkarsh-raj/Sailor) | A social space for anonymous discovery, spontaneous conversations, communities, and genuine connections. |
+| [SLAM](https://github.com/cser-utkarsh-raj/SLAM) | An AI-powered job discovery and application workspace that explains fit, tailors applications, and keeps the search organized. |
 
 ---
 
@@ -103,4 +95,3 @@ If you're building a product, an internal tool, a platform, or just exploring an
 <div align="center">
   <sub>Designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · Built by <a href="https://github.com/cser-utkarsh-raj">.dot</a></sub>
 </div>
-
