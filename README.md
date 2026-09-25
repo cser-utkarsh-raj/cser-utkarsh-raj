@@ -63,6 +63,10 @@ My work sits at the intersection of product thinking, developer tooling, AI-enab
   <img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=radical" alt="GitHub streak" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cser-utkarsh-raj&label=PROFILE+VIEWS&color=6E56CF&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## What I care about
