@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/banner.svg" width="100%" alt="Utkarsh Raj banner" />
-
   <img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/ur-profile.svg" width="190" alt="Utkarsh Raj profile avatar" />
 
   <h1>Utkarsh Raj</h1>
