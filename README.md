@@ -52,6 +52,19 @@ My work sits at the intersection of product thinking, developer tooling, AI-enab
 
 ---
 
+## GitHub pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&theme=radical&count_private=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=radical" alt="GitHub streak" />
+</div>
+
+---
+
 ## What I care about
 
 - Building useful products, not just code dumps
