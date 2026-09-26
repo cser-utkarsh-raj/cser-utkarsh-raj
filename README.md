@@ -125,18 +125,13 @@ An anonymous social platform built around spontaneous conversations, communities
 
 <div align="center">
 
-<!-- Live contribution calendar. The image is generated from GitHub contribution data, so commits update automatically without editing this README. -->
-<img src="https://github-contributions-api.deno.dev/cser-utkarsh-raj.svg?no-total=true&no-legend=true&bg=0D1117&font-color=E6EDF3&frame=20B2AA&scheme=green" alt="Live GitHub contribution activity" width="100%" />
+<img src="https://ghchart.rshah.org/20B2AA/cser-utkarsh-raj" alt="GitHub contribution calendar" width="100%" />
 
 <br />
 
-<a href="https://github.com/cser-utkarsh-raj">
-  <img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=20B2AA" alt="View full GitHub activity" />
-</a>
+<a href="https://github.com/cser-utkarsh-raj">View full GitHub profile →</a>
 
 </div>
-
-> **Live contribution data** · No manual README updates required. New GitHub activity is reflected by the contribution service automatically.
 
 ---
 
