@@ -1,87 +1,146 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/264562852?s=400&u=5135c35143c57672ad0d29813330495be836c89e&v=4" width="190" alt="Utkarsh Raj profile avatar" />
+# UTKARSH RAJ
 
-  <h1>Utkarsh Raj</h1>
-  <h3>Software Engineer • Builder • Problem Solver</h3>
+### Software Engineer · Builder · .dot
 
-  <p>
-    <b>Building .dot</b> • Learning TypeScript & System Design • Open to meaningful collaborations
-  </p>
+**Turning small ideas into working software.**
+
+[GitHub](https://github.com/cser-utkarsh-raj) · [GitPix](https://github.com/cser-utkarsh-raj/GitPix) · [.dot](https://github.com/cser-utkarsh-raj/.dot)
 
 </div>
 
 ---
 
-## About the builder
+## 👋 About
 
-I build products, prototypes, and systems that turn rough ideas into polished experiences. I enjoy shipping thoughtful software, architecting interesting backend flows, and learning the deeper mechanics behind the tools I use.
+I like taking weird ideas and turning them into working software.
 
-My work sits at the intersection of product thinking, developer tooling, AI-enabled workflows, and clean full-stack engineering.
+Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving between product thinking and engineering — from the first rough idea to the architecture, implementation, and final polish.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+Currently building **.dot**, while going deeper into TypeScript, system design, backend architecture, and production engineering.
+
+> **Do small potato stuff.** But every potato gets turned into a product eventually. 🥔
 
 ---
 
-## Selected work
+## 🧩 What I Build
 
-| Project | Description |
+| Area | What I work with |
 | --- | --- |
-| [myMentor](https://github.com/cser-utkarsh-raj/myMentor) | A personalized learning workspace with roadmaps, daily progress, study-hour logs, XP, streaks, and achievements. |
-| [Shennong](https://github.com/cser-utkarsh-raj/Shennong) | An agriculture-focused product exploring intelligent tools and better decisions for growers and agricultural communities. |
-| [TerraVault](https://github.com/cser-utkarsh-raj/TerraVault) | An encyclopedia-style journey through the wonders, disasters, and enigmas of our planet and beyond. |
-| [.dot](https://github.com/cser-utkarsh-raj/.dot) | A lightweight Python AI gateway that routes requests across multiple model providers through one stable API. |
-| [Sailor](https://github.com/cser-utkarsh-raj/Sailor) | A social space for anonymous discovery, spontaneous conversations, communities, and genuine connections. |
-| [SLAM](https://github.com/cser-utkarsh-raj/SLAM) | An AI-powered job discovery and application workspace that explains fit, tailors applications, and keeps the search organized. |
+| **Languages** | Python · TypeScript · JavaScript · Java |
+| **Frontend** | React · Next.js · HTML · CSS |
+| **Backend** | FastAPI · Flask · Node.js · Spring Boot |
+| **Data** | PostgreSQL · MySQL · SQLite |
+| **Infrastructure** | Docker · Jenkins · Git · GitHub |
+| **Interests** | AI tooling · Developer tools · Product engineering · System design |
 
 ---
 
-## GitHub pulse
+## 🚀 Selected Builds
+
+### [`.dot`](https://github.com/cser-utkarsh-raj/.dot)
+A lightweight Python AI gateway designed to route requests across multiple model providers through one stable API.
+
+**Focus:** AI infrastructure · API design · provider abstraction
+
+### [`GitPix`](https://github.com/cser-utkarsh-raj/GitPix)
+A GitHub profile README designer for creating distinctive, template-driven developer profiles instead of another generic stats wall.
+
+**Focus:** developer tooling · visual systems · templates · automation
+
+### [`myMentor`](https://github.com/cser-utkarsh-raj/myMentor)
+A personalized learning workspace built around roadmaps, daily progress, study-hour tracking, XP, streaks, and achievements.
+
+**Focus:** productivity · learning systems · full-stack development
+
+### [`Shennong`](https://github.com/cser-utkarsh-raj/Shennong)
+An agriculture-focused platform exploring intelligent tools and data-driven workflows for growers and agricultural communities.
+
+**Focus:** agriculture · AI/ML workflows · backend systems
+
+### [`TerraVault`](https://github.com/cser-utkarsh-raj/TerraVault)
+An interactive encyclopedia exploring the wonders, disasters, and enigmas of Earth and beyond.
+
+**Focus:** knowledge systems · content · web engineering
+
+### [`Sailor`](https://github.com/cser-utkarsh-raj/Sailor)
+An anonymous social platform built around spontaneous conversations, communities, discovery, and a nautical identity.
+
+**Focus:** Next.js · PWA · product design · social systems
+
+### [`SLAM`](https://github.com/cser-utkarsh-raj/SLAM)
+An AI-powered job discovery and application workspace designed to explain fit, organize opportunities, and streamline applications.
+
+**Focus:** AI workflows · job tooling · automation
+
+---
+
+## 🛠️ Current Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&theme=radical&count_private=true" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+<br />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+<br />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=radical" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&count_private=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&theme=transparent&count_private=true" height="165" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cser-utkarsh-raj&label=PROFILE+VIEWS&color=6E56CF&style=flat-square" alt="Profile views" />
-</p>
+---
+
+## 🧠 What I'm Exploring
+
+- TypeScript beyond the basics
+- Backend architecture and API design
+- System design and distributed systems
+- AI-powered developer workflows
+- Production deployment, CI/CD, and infrastructure
+- Building products with small, focused scopes
 
 ---
 
-## What I care about
+## 🤝 Build With Me
 
-- Building useful products, not just code dumps
-- Writing systems that are simple to reason about
-- Turning complex problems into elegant workflows
-- Learning deeply, shipping often, and improving relentlessly
+I'm interested in collaborating on **developer tools, AI products, useful automation, and ambitious side projects**.
 
----
-
-## Let's build something cool
-
-If you're building a product, an internal tool, a platform, or just exploring an idea — I'm always open to meaningful collaborations and ambitious problem-solving.
-
-> "Do small potato stuff" is the vibe. But every potato gets turned into a product eventually.
+If you're building something interesting, feel free to reach out.
 
 <div align="center">
-  <sub>Designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · Built by <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a></sub>
+
+**Small idea → prototype → product.**
+
+<br />
+
+<sub>README designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · part of <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a></sub>
+
 </div>
