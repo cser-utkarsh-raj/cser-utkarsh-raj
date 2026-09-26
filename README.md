@@ -1,73 +1,49 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/hero.svg" width="100%" alt="Utkarsh Raj — Building .dot" />
+<img src="./assets/profile-hero.svg" alt="Utkarsh Raj — Software Engineer and Builder" width="100%" />
 
 <br />
 
-<a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/cser-utkarsh-raj/GitPix"><img src="https://img.shields.io/badge/GitPix-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitPix" /></a>
-<a href="https://github.com/cser-utkarsh-raj/.dot"><img src="https://img.shields.io/badge/.dot-111827?style=for-the-badge&logo=dotnet&logoColor=white" alt=".dot" /></a>
+<a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/cser-utkarsh-raj/GitPix"><img src="https://img.shields.io/badge/GitPix-0D1117?style=flat-square&logo=github&logoColor=20B2AA" alt="GitPix" /></a>
+<a href="https://github.com/cser-utkarsh-raj/.dot"><img src="https://img.shields.io/badge/.dot-0D1117?style=flat-square&logo=dotnet&logoColor=20B2AA" alt=".dot" /></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/cser-utkarsh-raj/cser-utkarsh-raj/main/assets/dot-divider.svg" width="100%" alt="animated divider" />
+---
 
-## `01` — ABOUT
+## `01` · About
 
 I like taking weird ideas and turning them into working software.
 
-Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving between product thinking and engineering — from the first rough idea to the architecture, implementation, and final polish.
+Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving from rough idea → architecture → implementation → polish.
 
-Currently building **.dot** while going deeper into TypeScript, system design, backend architecture, and production engineering.
+Currently going deeper into **TypeScript, backend architecture, system design, AI infrastructure, and production engineering**.
 
 > **Do small potato stuff.** But every potato gets turned into a product eventually. 🥔
 
 ---
 
-## `02` — THE .DOT UNIVERSE
-
-<div align="center">
-
-```text
-                         .dot
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-        GitPix         myMentor         Sailor
-     developer tool    learning          social
-          │             system           platform
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    more experiments
-```
-
-**One umbrella. Small focused products. Lots of experiments.**
-
-</div>
-
----
-
-## `03` — SELECTED BUILDS
+## `02` · Selected Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [`.dot`](https://github.com/cser-utkarsh-raj/.dot)
+### [`GitPix`](https://github.com/cser-utkarsh-raj/GitPix)
 
-A lightweight Python AI gateway for routing requests across multiple model providers through one stable API.
+A template-driven **GitHub profile README designer** for developers who want something more distinctive than a generic stats wall.
 
-`AI INFRA` · `API DESIGN` · `PROVIDER ABSTRACTION`
+`developer tooling` · `visual systems` · `templates`
 
 </td>
 <td width="50%" valign="top">
 
-### [`GitPix`](https://github.com/cser-utkarsh-raj/GitPix)
+### [`.dot`](https://github.com/cser-utkarsh-raj/.dot)
 
-A template-driven GitHub profile README designer built to escape the generic stats-wall aesthetic.
+AI infrastructure for routing requests across model providers through a stable API surface, with provider abstraction and fallback-oriented architecture.
 
-`DEV TOOLING` · `VISUAL SYSTEMS` · `AUTOMATION`
+`AI infrastructure` · `APIs` · `Python`
 
 </td>
 </tr>
@@ -76,18 +52,18 @@ A template-driven GitHub profile README designer built to escape the generic sta
 
 ### [`myMentor`](https://github.com/cser-utkarsh-raj/myMentor)
 
-A personalized learning workspace built around roadmaps, progress, study-hour tracking, XP, streaks, and achievements.
+A learning workspace built around roadmaps, daily progress, study tracking, streaks, XP, achievements, and mentorship.
 
-`PRODUCTIVITY` · `LEARNING SYSTEMS` · `FULL STACK`
+`learning systems` · `product engineering`
 
 </td>
 <td width="50%" valign="top">
 
 ### [`Shennong`](https://github.com/cser-utkarsh-raj/Shennong)
 
-An agriculture-focused platform exploring intelligent tools and data-driven workflows for growers and agricultural communities.
+An agriculture-focused platform exploring intelligent tools, data-driven workflows, and AI/ML-assisted experiences for growers.
 
-`AGRICULTURE` · `AI/ML` · `BACKEND`
+`AI/ML` · `agriculture` · `backend`
 
 </td>
 </tr>
@@ -96,9 +72,9 @@ An agriculture-focused platform exploring intelligent tools and data-driven work
 
 ### [`TerraVault`](https://github.com/cser-utkarsh-raj/TerraVault)
 
-An interactive encyclopedia exploring the wonders, disasters, and enigmas of Earth and beyond.
+An interactive knowledge platform exploring the wonders, disasters, and enigmas of Earth and beyond.
 
-`KNOWLEDGE` · `CONTENT` · `WEB ENGINEERING`
+`knowledge systems` · `web engineering`
 
 </td>
 <td width="50%" valign="top">
@@ -107,27 +83,7 @@ An interactive encyclopedia exploring the wonders, disasters, and enigmas of Ear
 
 An anonymous social platform built around spontaneous conversations, communities, discovery, and a nautical identity.
 
-`NEXT.JS` · `PWA` · `PRODUCT DESIGN`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [`SLAM`](https://github.com/cser-utkarsh-raj/SLAM)
-
-An AI-powered job discovery and application workspace designed to explain fit, organize opportunities, and streamline applications.
-
-`AI WORKFLOWS` · `AUTOMATION` · `JOB TOOLING`
-
-</td>
-<td width="50%" valign="top">
-
-### More experiments
-
-Games, prototypes, APIs, automation experiments, and whatever interesting idea shows up next.
-
-`BUILD` · `BREAK` · `LEARN` · `SHIP`
+`Next.js` · `PWA` · `product design`
 
 </td>
 </tr>
@@ -135,70 +91,80 @@ Games, prototypes, APIs, automation experiments, and whatever interesting idea s
 
 ---
 
-## `04` — STACK
+## `03` · Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,fastapi,flask,spring,nodejs,postgres,mysql,docker,jenkins,git,github&perline=8" alt="Technology stack" />
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=20B2AA" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=20B2AA" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+
+**Frontend · Backend**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=20B2AA" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+
+**Infrastructure · Data**
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 
 </div>
 
+---
+
+## `04` · GitHub Activity
+
+<div align="center">
+
+<!-- Live image: regenerated by the activity service from GitHub contribution data. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cser-utkarsh-raj&bg_color=0D1117&color=E6EDF3&line=20B2AA&point=9F7FF7&area_color=20B2AA&area=true&hide_border=true&custom_title=Live%20Contribution%20Activity" alt="Live GitHub contribution activity" width="100%" />
+
 <br />
 
-| Layer | Tools |
-| --- | --- |
-| **Languages** | Python · TypeScript · JavaScript · Java |
-| **Frontend** | React · Next.js · HTML · CSS |
-| **Backend** | FastAPI · Flask · Node.js · Spring Boot |
-| **Data** | PostgreSQL · MySQL · SQLite |
-| **Infrastructure** | Docker · Jenkins · Git · GitHub |
-| **Exploring** | AI tooling · system design · backend architecture · production engineering |
+<img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=20B2AA&text_color=E6EDF3&icon_color=9F7FF7&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&bg_color=0D1117&title_color=20B2AA&text_color=E6EDF3&include_all_commits=true" height="170" alt="Top languages" />
+
+</div>
+
+> **Live data:** the activity graph and statistics are fetched from GitHub-backed services, so new commits are reflected without manually editing this README.
 
 ---
 
-## `05` — CURRENTLY EXPLORING
+## `05` · Currently Exploring
 
 ```text
-TypeScript          ███████████████░░░  going deeper
-System Design       ████████████░░░░░░  building mental models
-Backend Architecture████████████░░░░░░  shipping APIs
-AI Workflows        ███████████████░░░  experimenting
-Production Eng.     ██████████░░░░░░░░  learning by shipping
+TypeScript        ███████████████░░░  deeper patterns & production usage
+System Design     ████████████░░░░░░  architecture & distributed systems
+AI Infrastructure ██████████████░░░░  routing, providers & evaluation
+Backend           ███████████████░░░  APIs, security & scalability
+DevOps            ██████████░░░░░░░░  CI/CD, containers & deployment
 ```
 
 ---
 
-## `06` — GITHUB ACTIVITY
+## `06` · Build With Me
+
+Interested in **developer tools, AI products, useful automation, and ambitious side projects**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&count_private=true&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&theme=transparent&count_private=true" height="165" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `07` — BUILD WITH ME
-
-I'm interested in **developer tools, AI products, useful automation, full-stack systems, and ambitious side projects**.
-
-If you're building something interesting, feel free to reach out.
-
-<div align="center">
-
-### `small idea → prototype → product`
+**small idea → prototype → product**
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:17113b,100:09090b&height=2&section=footer" width="100%" alt="footer accent" />
+<img src="./assets/dot-logo.svg" alt=".dot" width="54" />
 
 <br />
 
-<sub>README designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · part of <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a> · built with unreasonable amounts of curiosity</sub>
+<sub>README designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · visual system uses the official <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a> identity</sub>
 
 </div>
