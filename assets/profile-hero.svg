@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#080A0F"/><stop offset="0.5" stop-color="#10151A"/><stop offset="1" stop-color="#080A0F"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#20B2AA" stop-opacity=".34"/><stop offset="1" stop-color="#20B2AA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2"><stop stop-color="#9F7FF7" stop-opacity=".28"/><stop offset="1" stop-color="#9F7FF7" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+  <style>
+    .sans{font-family:'Google Sans','Plus Jakarta Sans',Arial,sans-serif}.mono{font-family:'JetBrains Mono',monospace}
+    .float{animation:float 7s ease-in-out infinite}.pulse{animation:pulse 3.2s ease-in-out infinite}.scan{animation:scan 5s linear infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:.85}}
+    @keyframes scan{0%{transform:translateX(-420px)}100%{transform:translateX(1200px)}}
+  </style>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="210" cy="120" r="210" fill="url(#glow)" filter="url(#blur)"/>
+<circle cx="1000" cy="245" r="230" fill="url(#glow2)" filter="url(#blur)"/>
+<g opacity=".12" stroke="#D9E1E8">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+  <path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+</g>
+<g class="float" transform="translate(96 54) scale(.95)">
+  <path d="M40 70 L160 70 L160 160 L100 190 L40 160 Z" fill="#E6E0F8" stroke="#1E1E24" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M55 85 L145 85 L145 150 L100 172 L55 150 Z" fill="#20B2AA" stroke="#1E1E24" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M100 25 L108 50 L135 45 L120 65 L145 75 L115 85 L100 110 L85 85 L55 75 L80 65 L65 45 L92 50 Z" fill="#20B2AA" stroke="#1E1E24" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M100 45 L105 60 L120 58 L110 70 L125 78 L105 85 L100 100 L95 85 L75 78 L90 70 L80 58 L95 60 Z" fill="#FFF"/>
+  <path d="M140 100 Q160 80 170 90 L165 110 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/><path d="M165 85 C175 75 185 85 175 95 C185 95 185 105 175 105 C180 115 170 120 160 110 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/>
+  <path d="M60 110 Q40 130 45 150 L65 140 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/><path d="M35 145 C25 155 35 165 45 165 C45 175 55 175 60 165 C70 170 75 160 65 150 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/>
+  <path d="M80 165 L75 190 L95 190 L90 165 ZM120 165 L125 190 L105 190 L110 165 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/>
+  <path d="M70 190 L95 190 L95 200 L65 200 ZM105 190 L130 190 L135 200 L105 200 Z" fill="#9F7FF7" stroke="#1E1E24" stroke-width="6"/>
+  <circle cx="100" cy="115" r="45" fill="#20B2AA" stroke="#1E1E24" stroke-width="8"/><circle cx="85" cy="110" r="5" fill="#1E1E24"/><circle cx="115" cy="110" r="5" fill="#1E1E24"/><path d="M95 118 Q100 125 105 118" stroke="#1E1E24" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g transform="translate(330 92)">
+  <text class="sans" x="0" y="72" fill="#F8FAFC" font-size="68" font-weight="700">UTKARSH RAJ</text>
+  <text class="sans" x="4" y="112" fill="#20B2AA" font-size="24" font-weight="600">Software Engineer · Builder</text>
+  <text class="mono" x="4" y="151" fill="#A7B0BA" font-size="15">building useful things, one commit at a time_</text>
+  <circle class="pulse" cx="8" cy="190" r="4" fill="#20B2AA"/><text class="mono" x="22" y="196" fill="#6F7A85" font-size="12">SYSTEM ONLINE · .DOT</text>
+</g>
+<g opacity=".45" class="pulse"><circle cx="1040" cy="70" r="2" fill="#20B2AA"/><circle cx="1090" cy="110" r="3" fill="#9F7FF7"/><circle cx="1010" cy="150" r="2" fill="#20B2AA"/><circle cx="1120" cy="210" r="2" fill="#9F7FF7"/></g>
+<rect class="scan" x="0" y="0" width="160" height="360" fill="#20B2AA" opacity=".035"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>
