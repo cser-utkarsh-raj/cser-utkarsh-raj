@@ -1,12 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260" role="img" aria-label="GitHub contribution activity chart">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260" role="img" aria-label="GitHub contribution activity for cser-utkarsh-raj">
 <rect width="440" height="260" rx="18" fill="#0D1117"/>
-<style>.title{font:600 15px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#E6EDF3}.sub{font:400 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#8B949E}</style>
-<text x="24" y="32" class="title">GitHub activity</text>
-<circle cx="140" cy="125" r="82" fill="none" stroke="#21262D" stroke-width="28"/>
-<circle cx="140" cy="125" r="48" fill="#0D1117"/>
-<text x="140" y="121" text-anchor="middle" class="title">Updating</text>
-<text x="140" y="141" text-anchor="middle" class="sub">from GitHub</text>
-<text x="282" y="112" class="sub">Commits · Pull requests</text>
-<text x="282" y="136" class="sub">Issues · Reviews</text>
-<text x="24" y="238" class="sub">Updated automatically by GitHub Actions</text>
+<style>
+.title { font: 600 15px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #E6EDF3; }
+.label { font: 400 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #C9D1D9; }
+.value { font: 600 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #8B949E; }
+.sub { font: 400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #6E7681; }
+</style>
+<text x="24" y="28" class="title">Contribution activity · cser-utkarsh-raj</text>
+<g><path d="M 140 120 L 126.97 39.04 A 82 82 0 1 0 140.00 38.00 Z" fill="#20B2AA"/><path d="M 140 120 L 139.38 38.00 A 82 82 0 0 0 126.97 39.04 Z" fill="#A78BFA"/><path d="M 140 120 L 140.00 38.00 A 82 82 0 0 0 139.38 38.00 Z" fill="#60A5FA"/></g>
+<circle cx="140" cy="120" r="48" fill="#0D1117"/>
+<text x="140" y="116" text-anchor="middle" class="title" font-size="18">827</text>
+<text x="140" y="134" text-anchor="middle" class="sub">contributions</text>
+<g><circle cx="282" cy="43" r="5" fill="#20B2AA"/><text x="296" y="48" class="label">Commits</text><text x="400" y="48" text-anchor="end" class="value">806 · 97%</text><circle cx="282" cy="73" r="5" fill="#A78BFA"/><text x="296" y="78" class="label">Pull requests</text><text x="400" y="78" text-anchor="end" class="value">20 · 2%</text><circle cx="282" cy="103" r="5" fill="#60A5FA"/><text x="296" y="108" class="label">Reviews</text><text x="400" y="108" text-anchor="end" class="value">1 · 0%</text></g>
+<text x="24" y="240" class="sub">Updated automatically by GitHub Actions</text>
 </svg>
