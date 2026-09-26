@@ -6,7 +6,7 @@ on:
       - "assets/github-activity.svg"
   workflow_dispatch:
   schedule:
-    - cron: "17 0 * * 1"
+    - cron: "17 0 * * *"
 
 permissions:
   contents: write
