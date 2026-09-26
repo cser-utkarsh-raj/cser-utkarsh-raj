@@ -1,0 +1,5 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient><style>@keyframes move{from{transform:translateX(-600px)}to{transform:translateX(1200px)}}.m{animation:move 5s linear infinite}</style></defs>
+<path d="M0 35H1200" stroke="#ffffff" stroke-opacity=".07"/>
+<g class="m"><path d="M0 35H600" stroke="url(#g)" stroke-width="2"/><circle cx="600" cy="35" r="4" fill="#a78bfa"/></g>
+</svg>
