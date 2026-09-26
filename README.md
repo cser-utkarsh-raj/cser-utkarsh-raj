@@ -125,11 +125,11 @@ An anonymous social platform built around spontaneous conversations, communities
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/20B2AA/cser-utkarsh-raj" alt="GitHub contribution calendar" width="100%" />
+<img src="./assets/github-activity.svg" alt="GitHub contribution activity" width="440" />
 
 <br />
 
-<a href="https://github.com/cser-utkarsh-raj">View full GitHub profile →</a>
+<sub>Contribution mix · automatically refreshed by GitHub Actions</sub>
 
 </div>
 
