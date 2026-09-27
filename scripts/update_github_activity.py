@@ -14,14 +14,9 @@ QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
     contributionsCollection(from: $from, to: $to) {
-      contributionCalendar {
-        totalContributions
-        weeks {
-          contributionDays {
-            date
-            contributionCount
-          }
-        }
+      commitContributionsByDay {
+        date
+        contributionCount
       }
     }
   }
@@ -90,7 +85,7 @@ def build_svg(days: list[tuple[str, int]], total: int) -> str:
 </style>
 <text x="28" y="30" class="title">Daily GitHub commits · {USERNAME}</text>
 <text x="28" y="50" class="meta">Last 30 days · refreshed automatically at 01:00 IST</text>
-<text x="735" y="30" text-anchor="end" class="stat">{total} contributions</text>
+<text x="735" y="30" text-anchor="end" class="stat">{total} commits</text>
 <line x1="{chart_x}" y1="{chart_y + chart_h}" x2="{chart_x + chart_w}" y2="{chart_y + chart_h}" stroke="#30363D"/>
 {''.join(bars)}
 {''.join(labels)}
@@ -113,13 +108,12 @@ def main() -> None:
         },
     )
 
-    raw_days = {}
-    calendar = data["user"]["contributionsCollection"]["contributionCalendar"]
-    for week in calendar["weeks"]:
-        for day in week["contributionDays"]:
-            raw_days[day["date"]] = day["contributionCount"]
-
+    raw_days = {
+        item["date"]: item["contributionCount"]
+        for item in data["user"]["contributionsCollection"]["commitContributionsByDay"]
+    }
     days = [(str(start + dt.timedelta(days=i)), raw_days.get(str(start + dt.timedelta(days=i)), 0)) for i in range(DAYS)]
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(build_svg(days, sum(count for _, count in days)), encoding="utf-8")
     print(f"Wrote {OUTPUT} for {start} through {today}")
