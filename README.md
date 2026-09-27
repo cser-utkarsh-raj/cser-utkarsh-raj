@@ -125,11 +125,11 @@ An anonymous social platform built around spontaneous conversations, communities
 
 <div align="center">
 
-<img src="./assets/github-activity.svg" alt="GitHub contribution activity" width="440" />
+<img src="./assets/github-activity.svg" alt="Daily GitHub commit activity" width="760" />
 
 <br />
 
-<sub>Contribution mix · automatically refreshed by GitHub Actions</sub>
+<sub>Daily commit activity · automatically refreshed at 01:00 IST by GitHub Actions</sub>
 
 </div>
 
