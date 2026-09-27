@@ -11,12 +11,17 @@ DAYS = 30
 OUTPUT = Path("assets/github-activity.svg")
 
 QUERY = """
-query($login: String!, $from: DateTime!, $to: DateTime!) {
+query($login: String!, $from: DateTime!, $to: DateTime!, $maxRepositories: Int!) {
   user(login: $login) {
     contributionsCollection(from: $from, to: $to) {
-      commitContributionsByDay {
-        date
-        contributionCount
+      commitContributionsByRepository(maxRepositories: $maxRepositories) {
+        repository { nameWithOwner }
+        contributions(first: 100) {
+          nodes {
+            occurredAt
+            commitCount
+          }
+        }
       }
     }
   }
@@ -105,15 +110,18 @@ def main() -> None:
             "login": USERNAME,
             "from": f"{start.isoformat()}T00:00:00Z",
             "to": f"{(today + dt.timedelta(days=1)).isoformat()}T00:00:00Z",
+            "maxRepositories": 100,
         },
     )
 
-    raw_days = {
-        item["date"]: item["contributionCount"]
-        for item in data["user"]["contributionsCollection"]["commitContributionsByDay"]
-    }
-    days = [(str(start + dt.timedelta(days=i)), raw_days.get(str(start + dt.timedelta(days=i)), 0)) for i in range(DAYS)]
+    raw_days: dict[str, int] = {}
+    repositories = data["user"]["contributionsCollection"]["commitContributionsByRepository"]
+    for repository in repositories:
+        for contribution in repository["contributions"]["nodes"]:
+            date = contribution["occurredAt"][:10]
+            raw_days[date] = raw_days.get(date, 0) + contribution["commitCount"]
 
+    days = [(str(start + dt.timedelta(days=i)), raw_days.get(str(start + dt.timedelta(days=i)), 0)) for i in range(DAYS)]
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(build_svg(days, sum(count for _, count in days)), encoding="utf-8")
     print(f"Wrote {OUTPUT} for {start} through {today}")
