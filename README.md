@@ -5,7 +5,6 @@
 <br />
 
 <a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/cser-utkarsh-raj/GitPix"><img src="https://img.shields.io/badge/GitPix-0D1117?style=flat-square&logo=github&logoColor=20B2AA" alt="GitPix" /></a>
 <a href="https://github.com/cser-utkarsh-raj/.dot"><img src="https://img.shields.io/badge/.dot-0D1117?style=flat-square&logo=dotnet&logoColor=20B2AA" alt=".dot" /></a>
 
 </div>
