@@ -122,15 +122,12 @@ A skill-building and project showcase platform for developers to track progress,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=0F766E&text_color=94A3B8" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=0F766E&text_color=CBD5E1" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=8B5CF6&text_color=CBD5E1" alt="Top languages" />
 
 <br />
 
-<sub>Top languages (approx.): Python · TypeScript · JavaScript · Java</sub>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=94A3B8" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=CBD5E1" alt="Contribution streak" />
 
 </div>
 
