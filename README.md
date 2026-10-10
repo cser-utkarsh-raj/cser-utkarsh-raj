@@ -13,7 +13,7 @@
 
 I like taking weird ideas and turning them into working software.
 
-Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving from rough idea → architecture → implementation → polish.
+Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving from rough idea → architecture → implementation [...]
 
 Currently going deeper into **TypeScript, backend architecture, system design, AI infrastructure, and production engineering**.
 
@@ -36,51 +36,51 @@ A template-driven **GitHub profile README designer** for developers who want som
 </td>
 <td width="50%" valign="top">
 
-### [`.dot`](https://github.com/cser-utkarsh-raj/.dot)
-
-AI infrastructure for routing requests across model providers through a stable API surface, with provider abstraction and fallback-oriented architecture.
-
-`AI infrastructure` · `APIs` · `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [`myMentor`](https://github.com/cser-utkarsh-raj/myMentor)
-
-A learning workspace built around roadmaps, daily progress, study tracking, streaks, XP, achievements, and mentorship.
-
-`learning systems` · `product engineering`
-
-</td>
-<td width="50%" valign="top">
-
-### [`Shennong`](https://github.com/cser-utkarsh-raj/Shennong)
-
-An agriculture-focused platform exploring intelligent tools, data-driven workflows, and AI/ML-assisted experiences for growers.
-
-`AI/ML` · `agriculture` · `backend`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [`TerraVault`](https://github.com/cser-utkarsh-raj/TerraVault)
 
 An interactive knowledge platform exploring the wonders, disasters, and enigmas of Earth and beyond.
 
-`knowledge systems` · `web engineering`
+`knowledge systems` · `web engineering` · `React` · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`StoreBook`](https://github.com/cser-utkarsh-raj/StoreBook)
+
+A comprehensive full-stack e-commerce platform with inventory management, real-time order processing, and seamless user experience.
+
+`full-stack` · `e-commerce` · `React` · `FastAPI` · `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### [`Sailor`](https://github.com/cser-utkarsh-raj/Sailor)
+### [`The Bloom`](https://github.com/cser-utkarsh-raj/The-Bloom)
 
-An anonymous social platform built around spontaneous conversations, communities, discovery, and a nautical identity.
+A community-driven wellness and mental health platform connecting users with resources, support, and peer experiences.
 
-`Next.js` · `PWA` · `product design`
+`wellness` · `community` · `social` · `Next.js` · `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`goPanda`](https://github.com/cser-utkarsh-raj/goPanda)
+
+A smart logistics and delivery optimization platform using real-time tracking and intelligent routing algorithms.
+
+`logistics` · `optimization` · `real-time` · `Go` · `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [`NailedIt`](https://github.com/cser-utkarsh-raj/NailedIt)
+
+A skill-building and project showcase platform for developers to track progress, build portfolios, and share achievements.
+
+`learning systems` · `product engineering` · `portfolio` · `React` · `Node.js`
 
 </td>
 </tr>
@@ -118,7 +118,22 @@ An anonymous social platform built around spontaneous conversations, communities
 
 ---
 
-## `04` · GitHub Activity
+## `04` · GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uraj777&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=0F766E&text_color=475569" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uraj777&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=8B5CF6&text_color=475569" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Uraj777&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=475569&dates=94A3B8" alt="Contribution streak" />
+
+</div>
+
+---
+
+## `05` · GitHub Activity
 
 <div align="center">
 
@@ -132,7 +147,7 @@ An anonymous social platform built around spontaneous conversations, communities
 
 ---
 
-## `05` · Currently Exploring
+## `06` · Currently Exploring
 
 ```text
 TypeScript        ███████████████░░░  deeper patterns & production usage
@@ -144,7 +159,7 @@ DevOps            ██████████░░░░░░░░  CI/CD,
 
 ---
 
-## `06` · Build With Me
+## `07` · Build With Me
 
 Interested in **developer tools, AI products, useful automation, and ambitious side projects**.
 
