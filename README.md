@@ -27,15 +27,6 @@ Currently going deeper into **TypeScript, backend architecture, system design, A
 <tr>
 <td width="50%" valign="top">
 
-### [`GitPix`](https://github.com/cser-utkarsh-raj/GitPix)
-
-A template-driven **GitHub profile README designer** for developers who want something more distinctive than a generic stats wall.
-
-`developer tooling` · `visual systems` · `templates`
-
-</td>
-<td width="50%" valign="top">
-
 ### [`TerraVault`](https://github.com/cser-utkarsh-raj/TerraVault)
 
 An interactive knowledge platform exploring the wonders, disasters, and enigmas of Earth and beyond.
@@ -43,8 +34,6 @@ An interactive knowledge platform exploring the wonders, disasters, and enigmas 
 `knowledge systems` · `web engineering` · `React` · `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [`StoreBook`](https://github.com/cser-utkarsh-raj/StoreBook)
@@ -54,6 +43,8 @@ A comprehensive full-stack e-commerce platform with inventory management, real-t
 `full-stack` · `e-commerce` · `React` · `FastAPI` · `PostgreSQL`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [`The Bloom`](https://github.com/cser-utkarsh-raj/The-Bloom)
@@ -63,8 +54,6 @@ A community-driven wellness and mental health platform connecting users with res
 `wellness` · `community` · `social` · `Next.js` · `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [`goPanda`](https://github.com/cser-utkarsh-raj/goPanda)
@@ -72,6 +61,17 @@ A community-driven wellness and mental health platform connecting users with res
 A smart logistics and delivery optimization platform using real-time tracking and intelligent routing algorithms.
 
 `logistics` · `optimization` · `real-time` · `Go` · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`ClickHead`](https://github.com/cser-utkarsh-raj/ClickHead)
+
+A precision analytics and click-tracking platform for understanding user behavior and conversion patterns.
+
+`analytics` · `data insights` · `real-time` · `TypeScript` · `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
