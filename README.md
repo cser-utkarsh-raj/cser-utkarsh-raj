@@ -1,178 +1,196 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Utkarsh Raj — Software Engineer and Builder" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Utkarsh Raj — Software Engineer & Product Builder" width="100%" />
 
 <br />
 
-<a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<p>
+  <a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-cser--utkarsh--raj-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/cser-utkarsh-raj?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-6D5EF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/cser-utkarsh-raj/GitPix"><img src="https://img.shields.io/badge/Made_with-GitPix-14B8A6?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with GitPix" /></a>
+</p>
+
+**Software engineer building full-stack products, developer tools, and practical AI-powered workflows.**
+
+*From a rough idea to working software—with curiosity, iteration, and a healthy obsession with how things work.*
+
 </div>
 
 ---
 
-## `01` · About
+## About
 
-I like taking weird ideas and turning them into working software.
+I'm a Computer Science graduate who enjoys building across the stack: designing interfaces, building APIs, working with data, and figuring out how to ship software that is useful beyond a demo.
 
-Most of my work lives around **AI tooling, developer products, full-stack applications, and experiments that actually get shipped**. I enjoy moving from rough idea → architecture → implementation [...]
+My interests sit at the intersection of **full-stack engineering, AI applications, developer tooling, automation, and product design**. I like experimenting with new ideas, but I care just as much about debugging, integration, and the details that make a project work.
 
-Currently going deeper into **TypeScript, backend architecture, system design, AI infrastructure, and production engineering**.
-
-> **Do small potato stuff.** But every potato gets turned into a product eventually. 🥔
+- **Building:** full-stack applications, AI-assisted tools, and automation workflows
+- **Core stack:** Python, JavaScript/TypeScript, React, FastAPI, Flask, SQL
+- **Also exploring:** Java/Spring Boot, Docker, CI/CD, agentic workflows, and system design
+- **Approach:** understand the problem, build the smallest useful version, test it, improve it
 
 ---
 
-## `02` · Selected Builds
+## Selected projects
+
+A few projects that represent the kinds of problems I like working on.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [`TerraVault`](https://github.com/cser-utkarsh-raj/TerraVault)
+### [GitPix](https://github.com/cser-utkarsh-raj/GitPix)
 
-An interactive knowledge platform exploring the wonders, disasters, and enigmas of Earth and beyond.
+A GitHub profile README designer focused on helping developers create polished profile pages, with reusable visual styles and generated README content.
 
-`knowledge systems` · `web engineering` · `React` · `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [`StoreBook`](https://github.com/cser-utkarsh-raj/StoreBook)
-
-A comprehensive full-stack e-commerce platform with inventory management, real-time order processing, and seamless user experience.
-
-`full-stack` · `e-commerce` · `React` · `FastAPI` · `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [`The Bloom`](https://github.com/cser-utkarsh-raj/The-Bloom)
-
-A community-driven wellness and mental health platform connecting users with resources, support, and peer experiences.
-
-`wellness` · `community` · `social` · `Next.js` · `Python`
+Python · JavaScript · GitHub
 
 </td>
 <td width="50%" valign="top">
 
-### [`goPanda`](https://github.com/cser-utkarsh-raj/goPanda)
+### [myMentor](https://github.com/cser-utkarsh-raj/myMentor)
 
-A smart logistics and delivery optimization platform using real-time tracking and intelligent routing algorithms.
+An AI-powered learning companion designed to turn goals into structured roadmaps, daily study plans, progress tracking, and adaptive guidance.
 
-`logistics` · `optimization` · `real-time` · `Go` · `TypeScript`
+React · FastAPI · AI · PDF workflows
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [`ClickHead`](https://github.com/cser-utkarsh-raj/ClickHead)
+### [FarmHub](https://github.com/cser-utkarsh-raj/FarmHub)
 
-A precision analytics and click-tracking platform for understanding user behavior and conversion patterns.
+An agricultural technology project exploring farmer-focused tools, with a React/TypeScript frontend and a Python backend for data-driven workflows.
 
-`analytics` · `data insights` · `real-time` · `TypeScript` · `PostgreSQL`
+React · TypeScript · FastAPI · SQLAlchemy
 
 </td>
 <td width="50%" valign="top">
 
-### [`NailedIt`](https://github.com/cser-utkarsh-raj/NailedIt)
+### [The Bloom](https://github.com/cser-utkarsh-raj/The-Bloom)
 
-A skill-building and project showcase platform for developers to track progress, build portfolios, and share achievements.
+A top-down, atmospheric survival-horror game set in a world shaped by a spreading biological infection. Focused on gameplay systems, exploration, and environmental tension.
 
-`learning systems` · `product engineering` · `portfolio` · `React` · `Node.js`
+JavaScript · Phaser 3 · Game development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Sisyphus](https://github.com/cser-utkarsh-raj/Sisyphus)
+
+An automation project for generating and publishing short-form video content across social platforms, with a pipeline-oriented approach to media processing.
+
+TypeScript · Automation · Media pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### [goPanda](https://github.com/cser-utkarsh-raj/goPanda)
+
+A productivity-focused application built around helping people organize focused work and everyday tasks.
+
+React · TypeScript · Vite
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [TerraVault](https://github.com/cser-utkarsh-raj/TerraVault)
+
+An interactive web project built around exploring and presenting knowledge about Earth, natural phenomena, disasters, and mysteries.
+
+Web development · Interactive UI
+
+</td>
+<td width="50%" valign="top">
+
+### [StoreBook](https://github.com/cser-utkarsh-raj/StoreBook)
+
+A backend-oriented e-commerce project exploring service-based architecture and the building blocks behind a maintainable application.
+
+Java · Spring Boot · Microservices
 
 </td>
 </tr>
 </table>
 
+More experiments and repositories live in the [full project list →](https://github.com/cser-utkarsh-raj?tab=repositories).
+
 ---
 
-## `03` · Stack
+## Tools I work with
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img height="38" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=20B2AA" alt="Python" />
-<img height="38" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=20B2AA" alt="TypeScript" />
-<img height="38" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img height="38" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
 
-### Frontend · Backend
+**Frontend & Backend**
 
-<img height="38" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img height="38" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img height="38" src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=20B2AA" alt="FastAPI" />
-<img height="38" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
-<img height="38" src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 
-### Infrastructure · Data
+**Data, DevOps & Workflow**
 
-<img height="38" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img height="38" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img height="38" src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-<img height="38" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 
 </div>
 
 ---
 
-## `04` · GitHub Stats
+## GitHub at a glance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=0F766E&text_color=CBD5E1" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=8B5CF6&text_color=CBD5E1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cser-utkarsh-raj&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=14B8A6&text_color=CBD5E1" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cser-utkarsh-raj&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=8B5CF6&text_color=CBD5E1" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=CBD5E1" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=cser-utkarsh-raj&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## `05` · GitHub Activity
+## What I'm exploring
 
-<div align="center">
-
-<img src="./assets/github-activity.svg" alt="Daily GitHub commit activity" width="760" />
-
-<br />
-
-<sub>Daily commit activity · automatically refreshed at 01:00 IST by GitHub Actions</sub>
-
-</div>
+- **AI applications & agents** — useful workflows, tool integrations, and evaluation
+- **Backend engineering** — API design, data modeling, security, and reliability
+- **Software delivery** — Git workflows, automated testing, containers, and CI/CD
+- **Product engineering** — turning ambitious ideas into understandable, usable software
 
 ---
 
-## `06` · Currently Exploring
+## Let's build
 
-```text
-TypeScript        ███████████████░░░  deeper patterns & production usage
-System Design     ████████████░░░░░░  architecture & distributed systems
-AI Infrastructure ██████████████░░░░  routing, providers & evaluation
-Backend           ███████████████░░░  APIs, security & scalability
-DevOps            ██████████░░░░░░░░  CI/CD, containers & deployment
-```
+I'm interested in collaborating on **developer tools, AI-powered products, automation, open-source software, and unusual side projects**.
 
----
-
-## `07` · Build With Me
-
-Interested in **developer tools, AI products, useful automation, and ambitious side projects**.
+If something here is useful, explore the repositories, open an issue, or reach out through [GitHub](https://github.com/cser-utkarsh-raj).
 
 <div align="center">
 
-**small idea → prototype → product**
+<img src="./assets/dot-logo.svg" alt=".dot" width="48" />
 
-<br />
+**small idea → working software → something useful**
 
-<img src="./assets/dot-logo.svg" alt=".dot" width="54" />
-
-<br />
-
-<sub>README designed with <a href="https://github.com/cser-utkarsh-raj/GitPix">GitPix</a> · visual system uses the official <a href="https://github.com/cser-utkarsh-raj/.dot">.dot</a> identity</sub>
+<sub>Profile visuals by GitPix · Built with curiosity and a lot of iteration.</sub>
 
 </div>
