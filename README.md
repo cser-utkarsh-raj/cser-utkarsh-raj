@@ -7,7 +7,6 @@
 <p>
   <a href="https://github.com/cser-utkarsh-raj"><img src="https://img.shields.io/badge/GitHub-cser--utkarsh--raj-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://github.com/cser-utkarsh-raj?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-6D5EF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://github.com/cser-utkarsh-raj/GitPix"><img src="https://img.shields.io/badge/Made_with-GitPix-14B8A6?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with GitPix" /></a>
 </p>
 
 **Software engineer building full-stack products, developer tools, and practical AI-powered workflows.**
@@ -187,10 +186,8 @@ If something here is useful, explore the repositories, open an issue, or reach o
 
 <div align="center">
 
-<img src="./assets/dot-logo.svg" alt=".dot" width="48" />
-
 **small idea → working software → something useful**
 
-<sub>Profile visuals by GitPix · Built with curiosity and a lot of iteration.</sub>
+<sub>Built with curiosity, iteration, and a bias toward shipping.</sub>
 
 </div>
